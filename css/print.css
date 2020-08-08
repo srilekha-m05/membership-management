@@ -1,0 +1,28 @@
+@page
+{
+	size: 'A4';
+	margin: 0;
+}
+h4
+{
+	display: none;
+	visibility: none;
+
+}
+div
+{
+	display: none;
+	visibility: none;
+}
+h5
+{
+	display: block;
+}
+h3
+{
+	display: block;
+}
+table
+{
+	display: block;
+}
