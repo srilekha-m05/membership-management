@@ -1,0 +1,37 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: consolas;
+}
+.error
+{
+	color: red;
+}
+.main-form
+{
+	margin-top: 1%;
+}
+input
+{
+	border-color: transparent;
+	background-color: transparent;
+	
+	border-bottom: 1px solid grey;
+}
+.img-style {
+  
+}
+.search_box
+{
+	border:2px solid grey;
+}
+.form-row
+{
+	padding-bottom: 3%;
+}
+h4
+{
+	color: green;
+}
